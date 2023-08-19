@@ -1,0 +1,4 @@
+And now, a new safety feature you didn't know you needed:  the SATC Travel Limter Latch.  Print with the side showing as "up", and you'll need support.
+There are 3 Print-In-Place pieces.  You snap it on and click the latch before homing so now it will sensorless home to a more limited range, and also present a hard physical limit so even if the code goes crazy it won't be able to extend the rail past that no matter what.  This does a lot to help address safety issues esp with restrained users.
+It can be used on either side of the rail, or even both, with either rear-homing or front-homing, to set your working range
+The alignment peg is off-center for a reason.  The rail's holes are 25mm apart, this is off center by exactly 25/4.  That's to give extra distance options just by turning it the other way, it will move by exactly one half-step (12.5mm)
